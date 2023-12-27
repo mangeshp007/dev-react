@@ -1,0 +1,26 @@
+{
+  "name": "hello-react",
+  "version": "1.0.0",
+  "description": "this is Hello react by Mangesh",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mangeshp007/dev-react.git"
+  },
+  "keywords": [
+    "hello",
+    "react"
+  ],
+  "author": "Mangesh Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mangeshp007/dev-react/issues"
+  },
+  "homepage": "https://github.com/mangeshp007/dev-react#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
